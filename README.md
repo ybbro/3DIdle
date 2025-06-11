@@ -1,6 +1,6 @@
 # 3DIdle
 
-![image](https://github.com/user-attachments/assets/a022b513-04bc-458f-a282-4c9189c2a460)
+![화면 캡처 2025-06-11 113619](https://github.com/user-attachments/assets/a52cdfe4-5193-4c04-920b-46b250aa1d5c)
 
 3D 방치형 연습 (필수과제 일부 구현)
 1. 기본 UI 구현
